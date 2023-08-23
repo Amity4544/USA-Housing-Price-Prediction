@@ -1,6 +1,5 @@
 # USA-Housing-Price-Prediction
-
-Dataset Sescription:
+## Dataset Description:
 
 1. **Income:** The income of the residents in the area where the house is located. This could be an important indicator of the neighborhood's socioeconomic status, which can influence house prices.
 
